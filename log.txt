@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-05T16:04:54.464048700Z</date>
+  <millis>1685981094464</millis>
+  <nanos>48700</nanos>
+  <sequence>0</sequence>
+  <level>SEVERE</level>
+  <class>Seminar2i</class>
+  <method>writeToFile</method>
+  <thread>1</thread>
+  <message>java.lang.IllegalArgumentException: Self-suppression not permitted</message>
+</record>
+</log>
